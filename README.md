@@ -20,9 +20,11 @@ Rizki Fajar Purnomo is a skilled Informatics student proficient in integrating n
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashfox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashfox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Rashfox's GitHub Stats">
+  
+  <br><br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashfox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashfox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Rashfox's Top Languages">
 
 </div>
 
