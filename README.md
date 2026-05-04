@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19&height=200&section=header&text=Rizki%20Fajar%20Purnomo&fontSize=50&fontColor=fff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Rizki%20Fajar%20Purnomo&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" alt="Header">
 
 <div align="center">
 
