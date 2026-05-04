@@ -48,7 +48,7 @@ Rizki Fajar Purnomo is a skilled Informatics student proficient in integrating n
 
 <div align="center">
 
-⚡ I love coffee ☕
+⚡ I love coffee ☕ and cats 🐈
 
 </div>
 
