@@ -19,7 +19,7 @@ Rizki Fajar Purnomo is a skilled Informatics student proficient in integrating n
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashfox&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rashfox&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Rashfox&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -52,4 +52,4 @@ Rizki Fajar Purnomo is a skilled Informatics student proficient in integrating n
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" alt="Footer">
